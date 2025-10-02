@@ -1,6 +1,6 @@
 # ${\textsf{\color{#C25A7C}📊 Academic Stress Analysis}}$ 
 
-## ${\textsf{\color{#FFC0CB}Introduction}}$
+## ${\textsf{\color{#FFC0CB}📖 Introduction}}$
 Academic stress has become a pressing issue among students globally, with profound impacts on their mental health and academic outcomes.
 This project analyzes a real-world dataset on student academic stress to:
 
@@ -8,7 +8,7 @@ This project analyzes a real-world dataset on student academic stress to:
 *  Evaluate their relationships with student well-being.
 *  Support data-driven research, mental health evaluation, and the development of informed educational policies.
 
-## ${\textsf{\color{#FFC0CB}Data Description}}$
+## ${\textsf{\color{#FFC0CB}📂 Dataset}}$
 **Data Source :** https://www.kaggle.com/datasets/poushal02/student-academic-stress-real-world-dataset
 
 | Column Name | Data Type | Description
@@ -24,7 +24,7 @@ This project analyzes a real-world dataset on student academic stress to:
 | Rate your academic stress index | Numerical (1–5 scale) | The student’s self-reported overall academic stress level (dependent variable). |
 
 
-## ${\textsf{\color{#FFC0CB}Analysis Strategy}}$
+## ${\textsf{\color{#FFC0CB}🔎 Analysis Strategy}}$
 
 **1. Data Preparation**
   - Data Cleaning
